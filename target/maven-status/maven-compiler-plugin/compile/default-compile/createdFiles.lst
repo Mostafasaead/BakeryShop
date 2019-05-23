@@ -1,0 +1,7 @@
+com\task\bakery\service\BakeryShopService.class
+com\task\bakery\service\BakeryShopServiceImpl.class
+com\task\bakery\BakeryShop.class
+com\task\bakery\util\HibernateUtil.class
+com\task\bakery\entity\Pack.class
+com\task\bakery\entity\Bakery.class
+com\task\bakery\util\TablesInit.class
